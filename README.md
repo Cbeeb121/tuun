@@ -3,7 +3,7 @@ Music service to create playlists between individuals within a group.
 
 
 
-# To Run
+## To Run
 From terminal: 
 1. `cd` into _tuunapp_ folder
 2. run `rails s` 
